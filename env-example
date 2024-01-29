@@ -1,0 +1,10 @@
+PORT = 9000
+CLIENT_URL = 'http://localhost:3000'
+
+DB_URL='Your_db_url'
+
+
+JWT_ACCESS_SECRET='qwertytdgfhjxdcvbvtyftyftydjyuygytdeztdtfjghbvgcytvhgvhcbkjdcbhxdf'
+JWT_REFRESH_SECRET='xchewgrtywjgh6wukgcb4ukcgb4bu7wk4 gcbrejmhgfcbf8hiuk 4g38r7iuct4b78icu4tb487ci43'
+ACCESS_TOKEN_ACTIVE_TIME='15m'
+REFRESH_TOKEN_ACTIVE_TIME='1d'
